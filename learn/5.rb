@@ -10,5 +10,6 @@ better_with_bacon = ["burgers", "tacos", "donuts", "jalapenos"]
 
 for food in better_with_bacon
     puts "Bacon #{food}"
+    puts "Yum!"
     #evaluating above code for each element of the array
 end
